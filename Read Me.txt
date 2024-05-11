@@ -1,0 +1,14 @@
+Hospital Management System
+
+
+
+Names & Roll NO:
+
+Syed Faakhir Abid (23P-0003)
+Muhammad Haseeb (23P-0004)
+
+
+
+Github: 
+
+https://github.com/beingscorpion/Hospital-Management-System
